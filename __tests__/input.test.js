@@ -1,6 +1,6 @@
 'use strict';
 
-const Input = require('../lib/input.js');
+const Input = require('../lib/input-class.js');
 
 // Bad Inputs 
 const badInput1 = [];
